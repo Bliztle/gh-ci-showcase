@@ -5,3 +5,5 @@ function main(x) {
 }
 
 main("hello world");
+
+main("hello mom");
