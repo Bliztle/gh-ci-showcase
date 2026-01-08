@@ -1,5 +1,6 @@
 function main(x) {
-  return x.length * 2;
+  console.log(x);
+  return x;
 }
 
-main("5");
+main("hello world");
