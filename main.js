@@ -1,5 +1,5 @@
 function main(x) {
-  return x * 2;
+  return x.length * 2;
 }
 
-main(5);
+main("5");
